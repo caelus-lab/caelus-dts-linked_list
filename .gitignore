@@ -42,7 +42,6 @@ TEST*.xml
 *.flv
 *.mov
 *.wmv
-.npmignore
 
 # Environment
 *.env
