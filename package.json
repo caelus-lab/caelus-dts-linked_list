@@ -1,6 +1,6 @@
 {
   "name": "@caelus-dts/linked-list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A TypeScript implementation of a doubly linked list data structure",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
